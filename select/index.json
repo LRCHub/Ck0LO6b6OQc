@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Better Off Alone",
+  "base_artist": "Alice Deejay",
+  "createdAt": "2026-03-17T15:34:03.684683Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Better Off Alone",
+      "artist": "Alice DJ",
+      "has_synced": true,
+      "path": "select/01_Better_Off_Alone_Alice_DJ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Better Off Alone",
+      "artist": "Alice Deejay",
+      "has_synced": true,
+      "path": "select/02_Better_Off_Alone_Alice_Deejay.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Better Off Alone (club dub)",
+      "artist": "Alice DJ",
+      "has_synced": false,
+      "path": "select/03_Better_Off_Alone_(club_dub)_Alice_DJ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Better Off Alone (Pronti & Kalmani vocal remix)",
+      "artist": "Alice DJ",
+      "has_synced": false,
+      "path": "select/04_Better_Off_Alone_(Pronti_&_Kalmani_vocal_remix)_Alice_DJ.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Better Off Alone (Pronti & Kalmani Vocal Remix)",
+      "artist": "Alice Deejay",
+      "has_synced": false,
+      "path": "select/05_Better_Off_Alone_(Pronti_&_Kalmani_Vocal_Remix)_Alice_Deejay.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Better Off Alone (Radio Edit)",
+      "artist": "Alice Deejay",
+      "has_synced": true,
+      "path": "select/06_Better_Off_Alone_(Radio_Edit)_Alice_Deejay.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Better Off Alone (Signum Remix)",
+      "artist": "Alice DJ",
+      "has_synced": false,
+      "path": "select/07_Better_Off_Alone_(Signum_Remix)_Alice_DJ.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Better Off Alone (Signum Remix)",
+      "artist": "Alice Deejay",
+      "has_synced": false,
+      "path": "select/08_Better_Off_Alone_(Signum_Remix)_Alice_Deejay.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Better Off Alone",
+      "artist": "Alice DJ",
+      "has_synced": false,
+      "path": "select/09_Better_Off_Alone_Alice_DJ.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Better Off Alone",
+      "artist": "The Black Angels",
+      "has_synced": true,
+      "path": "select/10_Better_Off_Alone_The_Black_Angels.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Better Off Alone",
+      "artist": "Anouk",
+      "has_synced": true,
+      "path": "select/11_Better_Off_Alone_Anouk.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Better Off Alone",
+      "artist": "Salem",
+      "has_synced": false,
+      "path": "select/12_Better_Off_Alone_Salem.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Better Off Alone (remastered 1999 original hit radio mix)",
+      "artist": "Alice DJ",
+      "has_synced": false,
+      "path": "select/13_Better_Off_Alone_(remastered_1999_original_hit_radio_mix)_Alice_DJ.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Better Off Alone (Remastered) (1999 Original Hit Radio)",
+      "artist": "Alice Deejay",
+      "has_synced": false,
+      "path": "select/14_Better_Off_Alone_(Remastered)_(1999_Original_Hit_Radio)_Alice_Deejay.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Better off Alone (Mark Van Dale with Enrico Rmx)",
+      "artist": "Alice DJ",
+      "has_synced": false,
+      "path": "select/15_Better_off_Alone_(Mark_Van_Dale_with_Enrico_Rmx)_Alice_DJ.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Better Off Alone (Mark van Dale with Enrico Remix)",
+      "artist": "Alice Deejay",
+      "has_synced": false,
+      "path": "select/16_Better_Off_Alone_(Mark_van_Dale_with_Enrico_Remix)_Alice_Deejay.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Better Off Alone (Pronti & Kalmani Club Dub)",
+      "artist": "Alice DJ",
+      "has_synced": false,
+      "path": "select/17_Better_Off_Alone_(Pronti_&_Kalmani_Club_Dub)_Alice_DJ.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Better Off Alone",
+      "artist": "Leopold and his Fiction",
+      "has_synced": false,
+      "path": "select/18_Better_Off_Alone_Leopold_and_his_Fiction.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "better off alone",
+      "artist": "Smile Empty Soul",
+      "has_synced": true,
+      "path": "select/19_better_off_alone_Smile_Empty_Soul.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Better Off Alone",
+      "artist": "Alice Deejay",
+      "has_synced": false,
+      "path": "select/pl_01_Better_Off_Alone_Alice_Deejay.txt"
+    }
+  ]
+}
